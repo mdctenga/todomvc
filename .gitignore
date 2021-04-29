@@ -2,4 +2,5 @@
 /cypress/integration/submitform.spec.js
 /cypress/integration/todomvc-actions.spec.js
 /cypress/videos/
+/cypress/screenshots/
 package.json
